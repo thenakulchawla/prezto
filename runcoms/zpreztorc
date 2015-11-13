@@ -163,3 +163,9 @@ zstyle ':prezto:module:tmux:auto-start' remote 'no'
 
 # Integrate with iTerm2.
 # zstyle ':prezto:module:tmux:iterm' integrate 'yes'
+
+#
+# Python
+
+# %v - virtualenv name.
+zstyle ':prezto:module:python:info:virtualenv' format '%v'
