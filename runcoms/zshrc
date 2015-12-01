@@ -21,3 +21,7 @@ fi
 
 # don't record the commands starting with space to history
 setopt histignorespace
+
+# overwrite file during redirection(>)
+# create file during append-redirection(>>)
+setopt clobber
