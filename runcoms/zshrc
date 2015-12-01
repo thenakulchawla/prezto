@@ -17,3 +17,7 @@ fi
 if [ -f ~/.zshrc_local ]; then
     source $HOME/.zshrc_local
 fi
+
+
+# don't record the commands starting with space to history
+setopt histignorespace
