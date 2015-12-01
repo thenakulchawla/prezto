@@ -17,6 +17,7 @@ zstyle ':prezto:load' pmodule \
   'prompt' \
   'git' \
   'python' \
+  'repo' \
   'rooter' \
   'rsync' \
   'command-editor' \
