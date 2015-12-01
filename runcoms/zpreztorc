@@ -25,6 +25,7 @@ zstyle ':prezto:load' pmodule \
 
 # Editor
 zstyle ':prezto:module:editor' key-bindings 'emacs'
+zstyle ':prezto:module:editor' dot-expansion 'yes'  # Auto convert .... to ../..
 
 # Prompt
 zstyle ':prezto:module:prompt' theme 'hashknot'
