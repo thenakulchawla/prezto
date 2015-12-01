@@ -7,3 +7,6 @@
 [submodule "modules/prompt/functions/pure"]
 	path = modules/prompt/external/pure
 	url = https://github.com/sindresorhus/pure.git
+[submodule "modules/repo"]
+	path = modules/repo
+	url = https://github.com/hashknot/prezto-repo
