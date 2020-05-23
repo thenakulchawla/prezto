@@ -55,3 +55,4 @@ bindkey '\e.' insert-last-word
 bindkey -M vicmd '?' history-incremental-search-backward
 bindkey -M vicmd '/' history-incremental-search-forward
 bindkey -M vicmd '\e.' insert-last-word
+
