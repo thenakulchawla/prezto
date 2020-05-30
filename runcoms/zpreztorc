@@ -41,7 +41,7 @@ zstyle ':prezto:module:editor' dot-expansion 'yes'
 
 # zstyle ':prezto:module:pacman' frontend 'yaourt'
 
-zstyle ':prezto:module:prompt' theme 'hashknot'
+zstyle ':prezto:module:prompt' theme 'thenakulchawla'
 
 # zstyle ':prezto:module:ruby:chruby' auto-switch 'yes'
 

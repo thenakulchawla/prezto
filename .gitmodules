@@ -9,7 +9,4 @@
 	url = https://github.com/sindresorhus/pure.git
 [submodule "modules/repo"]
 	path = modules/repo
-	url = https://github.com/hashknot/prezto-repo
-[submodule "modules/pip"]
-	path = modules/pip
-	url = https://github.com/hashknot/prezto-pip
+	url = https://github.com/thenakulchawla/prezto-repo
